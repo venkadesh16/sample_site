@@ -1,0 +1,23 @@
+{
+  "name": "sampl",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "dependencies": {
+    "gh-pages": "^3.1.0"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "deploy": "gh-pages -d ."
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/venkadesh16/sample_site.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/venkadesh16/sample_site/issues"
+  },
+  "homepage": "https://venkadesh16.github.io/sample_site"
+}
